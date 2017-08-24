@@ -1,7 +1,7 @@
 # coding:utf-8
 import socket
 
-HOST, PORT, BUFSIZ = '', 8888, 1024
+HOST, PORT, BUFSIZ = '', 8899, 1024
 # 地址绑定的时候使用
 ADDR = (HOST, PORT)
 
